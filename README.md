@@ -6,7 +6,7 @@ In this assignment,
 
 1. Signup
 
-    URL(POST) :    localhost:3003/user/signup
+    URL(POST) :    localhost:3003/user/signup                                                                                   
     body format (JSON) : 
                         {
                             "firstname": "p",
@@ -17,7 +17,7 @@ In this assignment,
 
 2. Login 
 
-    URL(POST) : localhost:3003/user/login
+    URL(POST) : localhost:3003/user/login                                                                                           
     body format : 
                     {
                         "username": "admin1",
@@ -30,7 +30,7 @@ In this assignment,
 
 4. Fetchign user details
 
-    URL(GET): localhost:3003/user/userinfo
+    URL(GET): localhost:3003/user/userinfo                                                                                                      
     body format : 
                     {
                         "username": "admin1"
@@ -38,7 +38,7 @@ In this assignment,
 
 5. Uploading products
 
-    URL(POST):   localhost:3003/prod/uploadproducts
+    URL(POST):   localhost:3003/prod/uploadproducts                                                                                                         
     body format :  
                     {
                         "name": "hp",
