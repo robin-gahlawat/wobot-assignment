@@ -1,6 +1,6 @@
 
 In this assignment,                                                                                                               
- -> Authentication system is done using passport package, and passwords are stored using bcrypt.                                    
+ -> Authentication system is done using passport package, and passwords are encrypted using bcrypt.                                    
  -> Users have to first login to access rest of features like userlist, userdetails, uploading product data, product details.           
  -> Data is stored in my mongodb account.
 
